@@ -1,2 +1,2 @@
-# amazon_clone
+# amazon_frontend_clone
 deploying my project
